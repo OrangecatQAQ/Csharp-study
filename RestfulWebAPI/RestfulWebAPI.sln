@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestfulWebAPI", "RestfulWebAPI.csproj", "{EAC35EA4-DDCC-44F6-B984-C7A88D166D99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAC35EA4-DDCC-44F6-B984-C7A88D166D99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC35EA4-DDCC-44F6-B984-C7A88D166D99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC35EA4-DDCC-44F6-B984-C7A88D166D99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC35EA4-DDCC-44F6-B984-C7A88D166D99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {033503E5-6D47-4B08-BC43-4EF406EB9D37}
+	EndGlobalSection
+EndGlobal
